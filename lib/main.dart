@@ -72,7 +72,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-// ----------------- MAIN PAGE -----------------
+// ----------------- MAIN PAGE -------------------
 class MainPage extends StatelessWidget {
   final TextEditingController _searchController = TextEditingController();
 
